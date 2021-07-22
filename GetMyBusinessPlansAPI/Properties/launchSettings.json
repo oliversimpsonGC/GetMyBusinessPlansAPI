@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "GetMyBusinessPlansAPI": {
+      "commandName": "Project"
+    }
+  }
+}
